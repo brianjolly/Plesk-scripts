@@ -1,0 +1,9 @@
+Scripts for adding and deleting subdomains with matching git repos on a Plesk controlled server
+
+Usage:
+
+(make-repo.sh)
+sudo ./make-repo.sh <gituser> <subdomain>
+
+(delete-user-and-gitrepo.sh)
+sudo ./delete-user-and-gitrepo.sh <gituser> <subdomain>
